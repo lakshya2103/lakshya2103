@@ -22,7 +22,7 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :seedling: Currently I’m exploring Machine Learning and Python.
 
-- :zap: In my free time, I read tech articles.
+- :zap: In my free time, I read tech articles and learn new technologies.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-v-235910136/)
 ---
