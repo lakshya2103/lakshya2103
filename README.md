@@ -16,9 +16,9 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope:  Passionate about converting data into insights and building frameworks for decision-making.
+- :telescope:  Passionate about converting data into insights and building visualizations for decision-making.
 
 - :seedling: Currently I’m exploring Machine Learning and Python.
 
