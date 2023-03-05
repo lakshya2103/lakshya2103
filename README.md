@@ -24,7 +24,7 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :zap: In my free time, I read tech articles and learn new technologies.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-v-235910136/)
+- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-v-235910136/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
